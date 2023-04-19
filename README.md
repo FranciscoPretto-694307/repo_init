@@ -1,0 +1,1 @@
+Este repo lo cree con el comando git init. Ahora estoy creando el archivo readme para subirlo.
